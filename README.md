@@ -8,3 +8,7 @@ Java 8, maven and IntelliJ
 JSoup, JUnit and JSON
 
 Use maven commands to build, run and test
+
+#Possible changes
+Make Parser universal to be able to traverse any HTML Doc and correctly extract required elements.
+Be able to output more formats
